@@ -1,3 +1,4 @@
+# LK-Tracker
 **LK-Tracker** is a program that uses the Lucas-Kanade tracking algorithm with pyramids to follow key edge and corner points in a scene. The underlying mechanism used by the Lucas-Kanade algorithm is optical flow, which represents the apparent motion of objects seen by the observer and is shown through displacement vectors. Pyramids are used to downscale the image, as the algorithm fails for large motion and works well for smaller motion. Below is an example of optical flow seen as a vehicle turning on a curved road. 
 
 <p align="center"> 
