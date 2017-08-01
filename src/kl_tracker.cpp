@@ -1,6 +1,6 @@
 /* Kenneth Jung
  * Mechatronics Engineering
- * kennyjung@rogers.com
+ * k22jung@edu.uwaterloo.ca
  *
  * Original source taken from Github as a starting point for the code:
  *
