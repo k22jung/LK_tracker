@@ -14,7 +14,7 @@ The program was ran and created for Ubuntu 16.04
 
 ## Running
 
-This is an Eclipse project, you may simply compile it or use `make` in the `Debug` folder. Run with argument `-h` for details on how to use.
+This is an Eclipse project, you may simply compile it. Run with argument `-h` for details on how to use.
 
 
 
